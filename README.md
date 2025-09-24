@@ -12,7 +12,7 @@ Used AutoGluon to predict bike-sharing demand based on historical and environmen
 Built and trained a neural network using PyTorch to classify handwritten digits from the MNIST dataset.  
 **Test Accuracy achieved:** 97.37%
 
-### 📁 Project 3: [Coming Soon]  
+### 📁 Project 3: Landmark-Classification-and-Tagging-for-Social-Media-2.0 
 Details and results will be added upon completion.
 
 ### 📁 Project 4: [Coming Soon]  
