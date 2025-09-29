@@ -13,7 +13,7 @@ Built and trained a neural network using PyTorch to classify handwritten digits 
 **Test Accuracy achieved:** 97.37%
 
 ### 📁 Project 3: Landmark-Classification-and-Tagging-for-Social-Media-2.0 
-Details and results will be added upon completion.
+Developed a CNN model to classify landmarks in images for automatic tagging in social media. A CNN trained from scratch reached 51% accuracy, while transfer learning with ResNet18 improved results to 75% accuracy.
 
 ### 📁 Project 4: [Coming Soon]  
 Details and results will be added upon completion.
