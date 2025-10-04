@@ -15,7 +15,6 @@ Built and trained a neural network using PyTorch to classify handwritten digits 
 ### 📁 Project 3: Landmark-Classification-and-Tagging-for-Social-Media-2.0 
 Developed a CNN model to classify landmarks in images for automatic tagging in social media. A CNN trained from scratch reached 51% accuracy, while transfer learning with ResNet18 improved results to 75% accuracy.
 
-### 📁 Project 4: [Coming Soon]  
-Details and results will be added upon completion.
+### 📁 Project 4: Build a ML Workflow For Scones Unlimited On Amazon SageMaker 
+This project uses AWS SageMaker to create an image classification model that can differentiate bicycles from motorcycles. The model is deployed with AWS Lambda for supporting services and orchestrated with AWS Step Functions to form an automated, event-driven workflow.
 
----
