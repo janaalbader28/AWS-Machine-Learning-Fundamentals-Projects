@@ -18,3 +18,5 @@ Developed a CNN model to classify landmarks in images for automatic tagging in s
 ### 📁 Project 4: Build a ML Workflow For Scones Unlimited On Amazon SageMaker 
 This project uses AWS SageMaker to create an image classification model that can differentiate bicycles from motorcycles. The model is deployed with AWS Lambda for supporting services and orchestrated with AWS Step Functions to form an automated, event-driven workflow.
 
+
+![AWS Machine Learning Fundamentals Nanodegree](./img/AWS_Machine_Learning_Fundamentals_Nanodegree.png)
